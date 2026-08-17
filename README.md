@@ -1,6 +1,6 @@
-<h1 align="center">Assalamu Alaikum, I'm Abdurrahman 👋</h1>
+<h1 align="center">I'm Abdurrahman Sudais</h1>
 
-<h3 align="center">Computer Engineering Student • Frontend & Full-Stack Developer • Web3 Explorer</h3>
+<h3 align="center">Computer Engineering Student • Frontend & Full-Stack Developer • Web3 Explorer • App developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+with+Flutter+%26+Dart;Diving+into+Solidity+%2F+Web3;Shipping+real+products%2C+not+demos;Currently%3A+Frontend+Dev+%40+TravelMate" alt="Typing SVG" />
@@ -17,10 +17,10 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Computer Engineering student, currently deep in coursework while building real products on the side
-- 📱 Frontend developer on **TravelMate** — a Flutter carpooling/ride-sharing app
+- 📱 Frontend developer on **TravelMate**, a Flutter carpooling/ride-sharing app
 - ⛓️ Currently learning **Solidity** and building smart contracts with **Foundry**, deploying to **Base**
 - 🚀 Founder-track: previously built **StudyVid AI**, an app that generates personalized AI explainer videos for students
-- 🛠️ I like building things end-to-end — pixel-accurate UI, clean architecture, functional code (no `TODO`s left behind)
+- 🛠️ I like building things end-to-end, pixel-accurate UI, clean architecture, functional code (no `TODO`s left behind)
 - 🕌 Interested in bridging Islamic pedagogical frameworks with modern tech and education
 
 ---
