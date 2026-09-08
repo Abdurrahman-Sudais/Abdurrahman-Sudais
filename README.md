@@ -1,100 +1,198 @@
-<h1 align="center">I'm Abdurrahman Sudais</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=160&animation=fadeIn&section=header"/>
 
-<h3 align="center">Computer Engineering Student • Frontend & Full-Stack Developer • Web3 Explorer • App developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+with+Flutter+%26+Dart;Diving+into+Solidity+%2F+Web3;Shipping+real+products%2C+not+demos;Currently%3A+Frontend+Dev+%40+TravelMate" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=aaaaaa&center=true&vCenter=true&width=700&lines=Abdurrahman+%2F+Sudais+%2F+Nigeria;Computer+Engineering+Student;Flutter+%7C+Solidity+%7C+Python+%7C+Next.js;building+real+products%2C+not+just+demos)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://github.com/Abdurrahman-sudais">
-    <img src="https://komarev.com/ghpvc/?username=Abdurrahman-sudais&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
-  </a>
-</p>
+<br/>
 
----
+[![X](https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/call_him_sudais)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/call-him-sudais)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/call_him_sudais)
+[![Telegram](https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Call_him_sudais)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:abdurrahmansudais539@gmail.com)
 
-### 🧑‍💻 About Me
+<br/>
 
-- 🎓 Computer Engineering student, currently deep in coursework while building real products on the side
-- 📱 Frontend developer on **TravelMate**, a Flutter carpooling/ride-sharing app
-- ⛓️ Currently learning **Solidity** and building smart contracts with **Foundry**, deploying to **Base**
-- 🚀 Founder-track: previously built **StudyVid AI**, an app that generates personalized AI explainer videos for students
-- 🛠️ I like building things end-to-end, pixel-accurate UI, clean architecture, functional code (no `TODO`s left behind)
-- 🕌 Interested in bridging Islamic pedagogical frameworks with modern tech and education
+![Visitor Count](https://komarev.com/ghpvc/?username=Abdurrahman-Sudais&style=for-the-badge&color=0d0d0d&label=PROFILE+VIEWS&abbreviated=true)
+
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,solidity,nextjs,tailwind,figma,git,github,vscode,linux&theme=dark" />
-</p>
+<div align="center">
 
-**Languages & Frameworks**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=cccccc&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Computer+Engineering+student+building+full-stack+products.;Frontend+dev+on+TravelMate%2C+a+Flutter+carpooling+app.;Also+ship+Solidity+contracts+and+Next.js+apps.;Currently+exploring+AI-powered+edtech+tools.)](https://git.io/typing-svg)
 
-**Tools & Platforms**
-![Foundry](https://img.shields.io/badge/-Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Base](https://img.shields.io/badge/-Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
-### 🚧 Featured Work
+## Tech Stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🚗 TravelMate</h4>
-      <p>Carpooling / ride-sharing Flutter app. Built out driver & rider flows, wallet system, live route tracking with a custom canvas painter, KYC gating, and a full bookings/escrow pipeline synced to Figma specs.</p>
-      <code>Flutter</code> <code>Dart</code> <code>GetX</code>
-    </td>
-    <td width="50%">
-      <h4>🎬 StudyVid AI</h4>
-      <p>Startup concept: personalized AI-generated explainer videos for student questions. Full PRD, roadmap, and mockups shipped — powered by Groq LLMs and Manim.</p>
-      <code>Flutter</code> <code>FastAPI</code> <code>Groq</code> <code>Manim</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🛒 Marketplace Smart Contract</h4>
-      <p>Solidity marketplace contract built from scratch with Foundry, deploying to Base (Ethereum L2) — first deep dive into Web3 development.</p>
-      <code>Solidity</code> <code>Foundry</code> <code>Base</code>
-    </td>
-    <td width="50%">
-      <h4>🏫 Sumsy Childcare</h4>
-      <p>Production website for an Ofsted-registered childcare provider, built with a modern, fast, and clean tech stack.</p>
-      <code>Next.js</code> <code>Tailwind CSS</code>
-    </td>
-  </tr>
+<div align="center">
+
+![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Solidity](https://img.shields.io/badge/Solidity-0d0d0d?style=for-the-badge&logo=solidity&logoColor=ffffff)
+![Foundry](https://img.shields.io/badge/Foundry-0d0d0d?style=for-the-badge&logo=ethereum&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
+
+---
+
+## Skill Levels
+
+<div align="center">
+
+| Skill | Progress |
+|---|---|
+| Flutter / Dart | `████████▌░░` |
+| Python | `███████▌░░░` |
+| JavaScript / TypeScript | `███████░░░░` |
+| Solidity | `██████░░░░░` |
+| Next.js | `██████░░░░░` |
+
+</div>
+
+---
+
+## Terminal
+
+<div align="center">
+
+```bash
+┌─[sudais@dev]─[~]
+└──╼ $ whoami
+  Abdurrahman "Sudais" — Computer Engineering Student & Developer, Nigeria
+
+┌─[sudais@dev]─[~]
+└──╼ $ cat skills.txt
+  Languages  →  Dart · Python · JavaScript · TypeScript · Solidity
+  Frameworks →  Flutter · Next.js · Foundry
+  Specialty  →  Mobile apps · Smart contracts · Full-stack products
+
+┌─[sudais@dev]─[~]
+└──╼ $ ls ./projects
+  travelmate    marketplace-contract    studyvid-ai
+
+┌─[sudais@dev]─[~]
+└──╼ $ cat status.txt
+  Currently  →  Frontend dev on TravelMate (Flutter carpooling app)
+  Open to    →  Collabs · Open Source · Interesting Ideas
+
+┌─[sudais@dev]─[~]
+└──╼ $ uptime
+  Coding since way back · Still shipping · No signs of stopping
+
+┌─[sudais@dev]─[~]
+└──╼ $ █
+```
+
+</div>
+
+---
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### TravelMate
+Flutter-based carpooling and ride-sharing app. Built the wallet system, bookings flow with escrow logic, live route mapping, and KYC gating as frontend developer.
+
+</td>
+<td width="50%" valign="top">
+
+### Marketplace Contract
+Solidity marketplace smart contract built from scratch with Foundry, deployed on Base (Ethereum L2), with a full test suite.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### StudyVid AI
+An AI-generated explainer video concept (Flutter + FastAPI) where students submit questions and get personalized video explanations, powered by Groq/Gemini and Manim.
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdurrahman-sudais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurrahman-sudais&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrahman-sudais&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats-tawny-omega-98.vercel.app/api?username=Abdurrahman-Sudais&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555" width="49%"/>
+<img src="https://github-readme-stats-tawny-omega-98.vercel.app/api/top-langs/?username=Abdurrahman-Sudais&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Abdurrahman-Sudais&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=444444&fire=888888&currStreakLabel=ffffff&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" width="60%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdurrahman-Sudais&bg_color=0d0d0d&color=888888&line=2a2a2a&point=777777&area=true&area_color=111111&hide_border=true&radius=6" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abdurrahman-Sudais&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurrahman-Sudais&theme=github_dark" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdurrahman-Sudais&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdurrahman-Sudais&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdurrahman-Sudais&theme=github_dark&utcOffset=1" width="32%"/>
+
+</div>
 
 ---
 
-### 📫 Let's Connect
+## Contribution Snake
 
-<p align="center">
-  <a href="https://github.com/Abdurrahman-sudais"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center"><i>"And say: My Lord, increase me in knowledge." — Qur'an 20:114</i></p>
+![Snake animation](https://raw.githubusercontent.com/Abdurrahman-Sudais/Abdurrahman-Sudais/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> Note: the snake animation needs a one-time GitHub Actions workflow in a repo named exactly after your username to generate that SVG. Ask me if you want that workflow file too.
+
+---
+
+## Quote
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=2000&color=bbbbbb&center=true&vCenter=true&width=800&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%94+John+Johnson;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;Simplicity+is+the+soul+of+efficiency.+%E2%80%94+Austin+Freeman;Programs+must+be+written+for+people+to+read.+%E2%80%94+Harold+Abelson)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer"/>
