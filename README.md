@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=aaaaaa&center=true&vCenter=true&width=700&lines=Abdurrahman+%2F+Sudais+%2F+Nigeria;Computer+Engineering+Student;Flutter+%7C+Solidity+%7C+Python+%7C+Next.js;building+real+products%2C+not+just+demos)](https://git.io/typing-svg)
 
 <br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://call-him-sudais.vercel.app)
 [![X](https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/call_him_sudais)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/call-him-sudais)
