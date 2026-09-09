@@ -178,8 +178,6 @@ An AI-generated explainer video concept (Flutter + FastAPI) where students submi
 
 </div>
 
-> Note: the snake animation needs a one-time GitHub Actions workflow in a repo named exactly after your username to generate that SVG. Ask me if you want that workflow file too.
-
 ---
 
 ## Quote
