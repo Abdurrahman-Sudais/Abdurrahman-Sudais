@@ -68,8 +68,6 @@
 
 ## Terminal
 
-<div align="center">
-
 ```bash
 ┌─[sudais@dev]─[~]
 └──╼ $ whoami
@@ -97,8 +95,6 @@
 ┌─[sudais@dev]─[~]
 └──╼ $ █
 ```
-
-</div>
 
 ---
 
