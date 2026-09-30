@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=aaaaaa&center=true&vCenter=true&width=700&lines=Abdurrahman+%2F+Sudais+%2F+Nigeria;Computer+Engineering+Student;Flutter+%7C+Solidity+%7C+Python+%7C+Next.js;building+real+products%2C+not+just+demos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=aaaaaa&center=true&vCenter=true&width=700&lines=Abdurrahman+%2F+Sudais+%2F+Nigeria;Computer+Engineering+Student;Flutter+%7C+Python+%7C+Next.js+%7C+AI+Agents;building+real+products%2C+not+just+demos)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=cccccc&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Computer+Engineering+student+building+full-stack+products.;Frontend+dev+on+TravelMate%2C+a+Flutter+carpooling+app.;Also+ship+Solidity+contracts+and+Next.js+apps.;Currently+exploring+AI-powered+edtech+tools.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=cccccc&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Computer+Engineering+student+building+full-stack+products.;Frontend+dev+on+TravelMate%2C+a+Flutter+carpooling+app.;Building+AI+agents%3A+voice+assistants%2C+finance+bots%2C+study+tools.;Shipped+hackathon+builds+for+AWS+and+Google+Gemma+4.)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,22 +69,6 @@
 
 ---
 
-## Skill Levels
-
-<div align="center">
-
-| Skill | Progress |
-|---|---|
-| Flutter / Dart | `████████▌░░` |
-| Python | `███████▌░░░` |
-| JavaScript / TypeScript | `███████░░░░` |
-| Solidity | `██████░░░░░` |
-| Next.js | `██████░░░░░` |
-
-</div>
-
----
-
 ## Terminal
 
 ```bash
@@ -93,14 +77,8 @@
   Abdurrahman "Sudais" — Computer Engineering Student & Developer, Nigeria
 
 ┌─[sudais@dev]─[~]
-└──╼ $ cat skills.txt
-  Languages  →  Dart · Python · JavaScript · TypeScript · Solidity
-  Frameworks →  Flutter · Next.js · Foundry
-  Specialty  →  Mobile apps · Smart contracts · Full-stack products
-
-┌─[sudais@dev]─[~]
 └──╼ $ ls ./projects
-  travelmate    marketplace-contract    studyvid-ai
+  travelmate    equitrade-guardian    studyvid-ai    aurora
 
 ┌─[sudais@dev]─[~]
 └──╼ $ cat status.txt
@@ -129,8 +107,8 @@ Flutter-based carpooling and ride-sharing app. Built the wallet system, bookings
 </td>
 <td width="50%" valign="top">
 
-### Marketplace Contract
-Solidity marketplace smart contract built from scratch with Foundry, deployed on Base (Ethereum L2), with a full test suite.
+### EquiTrade Guardian
+AI agent built with Strands for the AWS *Agents for Humans* hackathon. It helps a small Nigerian nonprofit match bank transfers to member dues and keeps the office's prepaid electricity meter topped up.
 
 </td>
 </tr>
@@ -161,32 +139,6 @@ An AI-generated explainer video concept (Flutter + FastAPI) where students submi
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdurrahman-Sudais&bg_color=0d0d0d&color=888888&line=2a2a2a&point=777777&area=true&area_color=111111&hide_border=true&radius=6" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abdurrahman-Sudais&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurrahman-Sudais&theme=github_dark" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdurrahman-Sudais&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdurrahman-Sudais&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdurrahman-Sudais&theme=github_dark&utcOffset=1" width="32%"/>
-
-</div>
-
 ---
 
 ## Contribution Snake
@@ -203,7 +155,7 @@ An AI-generated explainer video concept (Flutter + FastAPI) where students submi
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=2000&color=bbbbbb&center=true&vCenter=true&width=800&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%94+John+Johnson;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;Simplicity+is+the+soul+of+efficiency.+%E2%80%94+Austin+Freeman;Programs+must+be+written+for+people+to+read.+%E2%80%94+Harold+Abelson)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=2000&color=bbbbbb&center=true&vCenter=true&width=850&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%94+John+Johnson;You+must+take+your+opponent+into+a+deep+dark+forest+where+2%2B2%3D5.+%E2%80%94+Mikhail+Tal;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;I+don%27t+believe+in+psychology.+I+believe+in+good+moves.+%E2%80%94+Bobby+Fischer;Simplicity+is+the+soul+of+efficiency.+%E2%80%94+Austin+Freeman;When+you+see+a+good+move%2C+look+for+a+better+one.+%E2%80%94+Emanuel+Lasker;Programs+must+be+written+for+people+to+read.+%E2%80%94+Harold+Abelson;You+may+learn+much+more+from+a+game+you+lose+than+from+a+game+you+win.+%E2%80%94+Jos%C3%A9+Ra%C3%BAl+Capablanca)](https://git.io/typing-svg)
 
 </div>
 
