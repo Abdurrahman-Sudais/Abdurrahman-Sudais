@@ -21,7 +21,7 @@
 
 ---
 
-## About
+## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="32"> About
 
 <div align="center">
 
@@ -31,22 +31,41 @@
 
 ---
 
-## Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![Solidity](https://img.shields.io/badge/Solidity-0d0d0d?style=for-the-badge&logo=solidity&logoColor=ffffff)
-![Foundry](https://img.shields.io/badge/Foundry-0d0d0d?style=for-the-badge&logo=ethereum&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+<h6><b>Languages</b></h6>
+<img src="https://skillicons.dev/icons?i=dart" alt="Dart" />&nbsp;
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />&nbsp;
 
-</div>
+<h6><b>Mobile & Frontend</b></h6>
+<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />&nbsp;
+
+<h6><b>Backend & AI</b></h6>
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="48" height="48" />&nbsp;
+
+</td>
+<td width="50%" valign="top">
+
+<h6><b>Web3</b></h6>
+<img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />&nbsp;
+<img src="https://cdn.simpleicons.org/ethereum/ffffff" alt="Ethereum / Foundry" width="48" height="48" />&nbsp;
+
+<h6><b>Development Tools</b></h6>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" />&nbsp;
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />&nbsp;
+
+</td>
+</tr>
+</table>
 
 ---
 
