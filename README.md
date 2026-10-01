@@ -42,17 +42,40 @@
 <img src="https://skillicons.dev/icons?i=python" alt="Python" />&nbsp;
 <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&nbsp;
 <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" />&nbsp;
 
-<h6><b>Mobile & Frontend</b></h6>
+<h6><b>Mobile</b></h6>
 <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=react" alt="React Native" />&nbsp;
+<img src="https://skillicons.dev/icons?i=swift" alt="Swift" />&nbsp;
+<img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />&nbsp;
+<img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />&nbsp;
 
-<h6><b>Backend & AI</b></h6>
-<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="48" height="48" />&nbsp;
+<h6><b>Frontend</b></h6>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" />&nbsp;
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=react" alt="React" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />&nbsp;
+
+<h6><b>Systems & Hardware</b></h6>
+<img src="https://skillicons.dev/icons?i=c" alt="C" />&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" />&nbsp;
+<img src="https://skillicons.dev/icons?i=rust" alt="Rust" />&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" />&nbsp;
+<img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" />&nbsp;
 
 </td>
 <td width="50%" valign="top">
+
+<h6><b>Backend & Databases</b></h6>
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />&nbsp;
+<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />&nbsp;
+
+<h6><b>AI</b></h6>
+<img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" width="48" height="48" />&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="48" height="48" />&nbsp;
 
 <h6><b>Web3</b></h6>
 <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />&nbsp;
