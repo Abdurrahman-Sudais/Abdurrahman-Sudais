@@ -1,0 +1,36 @@
+name: Streak Fire
+
+on:
+  schedule:
+    - cron: "0 */4 * * *" # checks every 4 hours
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+jobs:
+  update:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Light the fire if on a streak
+        run: |
+          streak=$(curl -sf "https://streak-stats.demolab.com/?user=Abdurrahman-Sudais&type=json" | jq '.currentStreak.length')
+          if [ -z "$streak" ] || [ "$streak" = "null" ]; then
+            echo "Could not read streak, leaving README alone"
+            exit 0
+          fi
+          if [ "$streak" -gt 0 ]; then fire="FF6A00"; else fire="444444"; fi
+          echo "Current streak: $streak days -> fire=$fire"
+          sed -i -E "s/(streak-stats\.demolab\.com[^\"]*[?&]fire=)[0-9A-Fa-f]{6}/\1$fire/" README.md
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update streak fire"
+          git push

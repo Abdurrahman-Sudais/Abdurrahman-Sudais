@@ -94,27 +94,11 @@
 
 ## Terminal
 
-```bash
-┌─[sudais@dev]─[~]
-└──╼ $ whoami
-  Abdurrahman "Sudais" — Computer Engineering Student & Developer, Nigeria
+<div align="center">
 
-┌─[sudais@dev]─[~]
-└──╼ $ ls ./projects
-  travelmate    equitrade-guardian    studyvid-ai    aurora
+<img src="./assets/terminal.svg" alt="PowerShell terminal" width="100%"/>
 
-┌─[sudais@dev]─[~]
-└──╼ $ cat status.txt
-  Currently  →  Frontend dev on TravelMate (Flutter carpooling app)
-  Open to    →  Collabs · Open Source · Interesting Ideas
-
-┌─[sudais@dev]─[~]
-└──╼ $ uptime
-  Coding since way back · Still shipping · No signs of stopping
-
-┌─[sudais@dev]─[~]
-└──╼ $ █
-```
+</div>
 
 ---
 
@@ -147,7 +131,7 @@ An AI-generated explainer video concept (Flutter + FastAPI) where students submi
 
 ---
 
-## GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats
 
 <div align="center">
 
@@ -158,7 +142,7 @@ An AI-generated explainer video concept (Flutter + FastAPI) where students submi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Abdurrahman-Sudais&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=444444&fire=888888&currStreakLabel=ffffff&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Abdurrahman-Sudais&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=444444&fire=FF6A00&currStreakLabel=ffffff&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" width="60%"/>
 
 </div>
 
