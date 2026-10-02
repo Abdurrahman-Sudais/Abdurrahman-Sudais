@@ -55,7 +55,7 @@ TYPE = 0.06     # seconds per typed character
 PAUSE = 0.5     # pause before each command starts typing
 OUT_GAP = 0.25  # pause between Enter and the output appearing
 
-elements = []; keyframes = []; y = Y0; t = 0.2
+elements = []; y = Y0; t = 0.2
 
 
 def runs(line):
@@ -68,7 +68,9 @@ def text(y, line):
 
 
 def appear(at, inner):
-    return f'<g class="r" style="animation-delay:{at:.2f}s">{inner}</g>'
+    # SMIL rather than CSS: it runs on the SVG's own clock, which keeps going inside <img> tags.
+    return (f'<g visibility="hidden"><set attributeName="visibility" to="visible" begin="{at:.2f}s" fill="freeze"/>'
+            f'{inner}</g>')
 
 
 elements.append(appear(t, text(y, "Windows PowerShell") + text(y + LH, "Copyright (C) Microsoft Corporation. All rights reserved.")))
@@ -82,13 +84,14 @@ for cmd, args, output in STEPS:
     dur = n * TYPE
     line = [(PROMPT, W), (cmd, Y)] + ([(" " + args, W)] if args else [])
     # The prompt and command appear together, with a cover (cursor + background) sliding right to "type" it.
-    k = len(keyframes)
-    keyframes.append(f"@keyframes t{k}{{to{{transform:translateX({n * CHAR:.1f}px)}}}}")
-    cover = (f'<g style="animation:t{k} {dur:.2f}s steps({n}) {t:.2f}s forwards,gone .01s steps(1) {t + dur:.2f}s forwards">'
+    steps_x = ";".join(f"{i * CHAR:.1f} 0" for i in range(n + 1))
+    cover = (f'<g><animateTransform attributeName="transform" type="translate" calcMode="discrete" '
+             f'values="{steps_x}" begin="{t:.2f}s" dur="{dur + TYPE:.2f}s" fill="freeze"/>'
+             f'<set attributeName="visibility" to="hidden" begin="{t + dur + TYPE:.2f}s" fill="freeze"/>'
              f'<rect x="{cx:.1f}" y="{y - 15}" width="9" height="19" fill="{W}"/>'
              f'<rect x="{cx + 9:.1f}" y="{y - 15}" width="{WIDTH}" height="19" fill="{BG}"/></g>')
     elements.append(appear(t, text(y, line) + cover))
-    t += dur + OUT_GAP
+    t += dur + TYPE + OUT_GAP
     y += LH
     block = []
     for o in output:
@@ -101,18 +104,13 @@ for cmd, args, output in STEPS:
 
 t += PAUSE
 cx = X + len(PROMPT) * CHAR
-elements.append(appear(t, text(y, PROMPT) + f'<rect class="cur" x="{cx:.1f}" y="{y - 15}" width="9" height="19" fill="{W}"/>'))
+elements.append(appear(t, text(y, PROMPT) + f'<rect x="{cx:.1f}" y="{y - 15}" width="9" height="19" fill="{W}">'
+                          f'<animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect>'))
 H = y + 22
 
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{H}" viewBox="0 0 {WIDTH} {H}" role="img" aria-label="PowerShell terminal introducing Abdurrahman Sudais: profile, projects, hackathons, status and contact">
 <style>
 text{{font-family:"Cascadia Mono",Consolas,"Courier New",monospace;font-size:14px;white-space:pre}}
-.r{{opacity:0;animation:show .01s steps(1) forwards}}
-@keyframes show{{to{{opacity:1}}}}
-{chr(10).join(keyframes)}
-@keyframes gone{{to{{opacity:0}}}}
-.cur{{animation:blink 1s steps(1) infinite}}
-@keyframes blink{{50%{{opacity:0}}}}
 .t{{font-family:"Segoe UI",Arial,sans-serif;font-size:12px;fill:#E6E6E6}}
 </style>
 <clipPath id="w"><rect width="{WIDTH}" height="{H}" rx="8"/></clipPath>
