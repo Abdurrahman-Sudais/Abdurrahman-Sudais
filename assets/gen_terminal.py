@@ -28,11 +28,13 @@ STEPS = [
         [("d-----       9/17/2026       ", W), ("equitrade-guardian    ", C), ("AI agent for a nonprofit", W)],
         [("d-----       9/10/2026       ", W), ("studyvid-ai           ", C), ("AI video explainers", W)],
         [("d-----       9/22/2026       ", W), ("aurora                ", C), ("Voice desktop assistant", W)],
+        [("d-----       10/10/2026      ", W), ("lume                  ", C), ("Smart electricity metering", W)],
         [("d-----       7/28/2026       ", W), ("liab                  ", C), ("AI OS for students", W)],
     ]),
     ("Get-Content", "." + BS + "hackathons.txt", [
         [("AWS Agents for Humans  ", Y), ("->  EquiTrade Guardian (Good Neighbor track)", W)],
         [("Google Gemma 4         ", Y), ("->  LIAB, the AI operating system for students", W)],
+        [("NESI Innovation 2026   ", Y), ("->  Lume, smart metering (PowerTech track)", W)],
     ]),
     ("Get-Content", "." + BS + "status.txt", [
         "Currently : Frontend dev on TravelMate (Flutter carpooling app)",

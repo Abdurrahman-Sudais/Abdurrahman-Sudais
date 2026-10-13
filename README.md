@@ -120,10 +120,16 @@ AI agent built with Strands for the AWS *Agents for Humans* hackathon. It helps 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### StudyVid AI
 An AI-generated explainer video concept (Flutter + FastAPI) where students submit questions and get personalized video explanations, powered by Groq/Gemini and Manim.
+
+</td>
+<td width="50%" valign="top">
+
+### Lume
+Smart metering, billing and service accountability for Nigeria's electricity sector, built as a team for the NESI Innovation Challenge 2026. It checks the supply hours each feeder actually delivered against its NERC band. Runs on AWS (Lambda, SQS, DynamoDB) with Next.js dashboards. [Live demo](https://lume-cloud.vercel.app)
 
 </td>
 </tr>
