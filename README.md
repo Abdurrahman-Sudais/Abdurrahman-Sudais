@@ -148,7 +148,7 @@ Smart metering, billing and service accountability for Nigeria's electricity sec
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Abdurrahman-Sudais&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=444444&fire=444444&currStreakLabel=ffffff&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Abdurrahman-Sudais&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=444444&fire=FF6A00&currStreakLabel=ffffff&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" width="60%"/>
 
 </div>
 
